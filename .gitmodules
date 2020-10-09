@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/logistic"]
+	path = RL-OtherApps/logistic
+	url = git@github.com:RL-OtherApps/logistic.git
+	branch = 12.0
