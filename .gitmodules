@@ -12,3 +12,8 @@
 	path = muk-it/muk_base
 	url = git@github.com:muk-it/muk_base.git
 	branch = 13.0
+
+[submodule "muk-it/muk_web"]
+	path = muk-it/muk_web
+	url = git@github.com:muk-it/muk_web.git
+	branch = 13.0
