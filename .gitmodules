@@ -22,3 +22,8 @@
 	path = muk-it/muk_website
 	url = git@github.com:muk-it/muk_website.git
 	branch = 14.0
+
+[submodule "OCA-MUK/currency"]
+	path = OCA-MUK/currency
+	url = git@github.com:OCA-MUK/currency.git
+	branch = 12.0
